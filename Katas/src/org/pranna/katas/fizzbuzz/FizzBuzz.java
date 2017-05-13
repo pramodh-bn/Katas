@@ -1,4 +1,4 @@
-package org.pranna.katas;
+package org.pranna.katas.fizzbuzz;
 
 public class FizzBuzz {
 
